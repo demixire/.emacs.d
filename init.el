@@ -101,9 +101,9 @@
 
 ;; markdown-mode
 ;; Use markdown-mode for markdown files
-(use-package markdown-mode
-  :ensure t
-  :mode (".md" ".markdown"))
+;;(use-package markdown-mode
+;;  :ensure t
+;;  :mode (".md" ".markdown"))
 
 ;; linum-relative
 ;; Display relative line number in Emacs.
