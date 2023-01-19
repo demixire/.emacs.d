@@ -1,6 +1,6 @@
 
 ```sh
-rm -rf ~/.emacs.d && git clone git@github.com:demixire/beemacs.git ~/.emacs.d
+rm -rf ~/.emacs.d && git@github.com:demixire/.emacs.d.git ~/.emacs.d
 ```
 
 ### Packages
