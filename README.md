@@ -1,6 +1,5 @@
-
 ```sh
-rm -rf ~/.emacs.d && git@github.com:demixire/.emacs.d.git ~/.emacs.d
+rm -rf ~/.emacs.d && git clone git@github.com:demixire/.emacs.d.git ~/.emacs.d
 ```
 
 ### Packages
@@ -10,4 +9,4 @@ rm -rf ~/.emacs.d && git@github.com:demixire/.emacs.d.git ~/.emacs.d
 4. [linum-relative](https://github.com/coldnew/linum-relative)
 5. [magit](https://github.com/magit/magit)
 6. [company-mode](https://company-mode.github.io/)
-7. [markdown-mode](https://jblevins.org/projects/markdown-mode/)
+7. ~~[markdown-mode](https://jblevins.org/projects/markdown-mode/)~~
